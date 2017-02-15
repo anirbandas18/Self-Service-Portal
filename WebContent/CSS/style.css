@@ -1,0 +1,51 @@
+
+body {
+    font-family: Tahoma; 
+    font-weight: normal; 
+    font-size: medium;
+    background: #F0F0F0;
+}
+table {
+    margin-top: 4%;
+    border: 1px solid black; 
+    padding: 15px; 
+    height: 532px; 
+}
+caption {
+    background-color: #bfcddb; 
+    padding: 5px;
+}
+.td-left {
+    text-align: left;
+    width: 325px;
+    padding-left: 10px;
+}
+.td-left-big {
+    text-align: right;
+    width: 325px;
+    padding-right: 10px;
+}
+textarea {
+    font-family: Tahoma; 
+    font-weight: normal; 
+    font-size: medium;
+    background-color: #F0F0F0;
+    height: 120px;
+    width: 650px; 
+    min-width:650px; 
+    max-width:650px; 
+    min-height:120px;  
+    max-height:120px;
+}
+fieldset {
+    height: 145px;
+    width: 650px; 
+}
+.close-button {
+    margin-left : 410px; 
+    font-weight: bold; 
+    background: red; 
+    color: white;
+    padding-left: 12px;
+    padding-right: 12px;
+}
